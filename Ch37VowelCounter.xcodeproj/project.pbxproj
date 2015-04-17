@@ -10,6 +10,7 @@
 		F3633E5D1AE0AA5900A151A9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3633E5C1AE0AA5900A151A9 /* Foundation.framework */; };
 		F3633E601AE0AA5900A151A9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F3633E5F1AE0AA5900A151A9 /* main.m */; };
 		F3633E641AE0AA5900A151A9 /* Ch37VowelCounter.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = F3633E631AE0AA5900A151A9 /* Ch37VowelCounter.1 */; };
+		F3BD59BF1AE0AC9000FC4249 /* NSString+BNRVowelCounting.m in Sources */ = {isa = PBXBuildFile; fileRef = F3BD59BE1AE0AC9000FC4249 /* NSString+BNRVowelCounting.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		F3633E5F1AE0AA5900A151A9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F3633E621AE0AA5900A151A9 /* Ch37VowelCounter-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Ch37VowelCounter-Prefix.pch"; sourceTree = "<group>"; };
 		F3633E631AE0AA5900A151A9 /* Ch37VowelCounter.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Ch37VowelCounter.1; sourceTree = "<group>"; };
+		F3BD59BD1AE0AC9000FC4249 /* NSString+BNRVowelCounting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+BNRVowelCounting.h"; sourceTree = "<group>"; };
+		F3BD59BE1AE0AC9000FC4249 /* NSString+BNRVowelCounting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+BNRVowelCounting.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,8 @@
 			isa = PBXGroup;
 			children = (
 				F3633E5F1AE0AA5900A151A9 /* main.m */,
+				F3BD59BD1AE0AC9000FC4249 /* NSString+BNRVowelCounting.h */,
+				F3BD59BE1AE0AC9000FC4249 /* NSString+BNRVowelCounting.m */,
 				F3633E631AE0AA5900A151A9 /* Ch37VowelCounter.1 */,
 				F3633E611AE0AA5900A151A9 /* Supporting Files */,
 			);
@@ -139,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3633E601AE0AA5900A151A9 /* main.m in Sources */,
+				F3BD59BF1AE0AC9000FC4249 /* NSString+BNRVowelCounting.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +258,7 @@
 				F3633E691AE0AA5900A151A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
