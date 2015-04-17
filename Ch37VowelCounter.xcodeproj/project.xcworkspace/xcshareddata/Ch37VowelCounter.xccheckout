@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>76C0297D-0746-4BB3-9019-0A3F8840FE86</string>
+	<string>31DA07A0-B515-4C8B-8382-E3E3B6A591D8</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Ch37VowelCounter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>97A9BD83-7208-43CE-8980-DF833D388497</key>
-		<string>ssh://github.com-rebornwhu/rebornwhu/Ch37VowelCounter.git</string>
+		<key>BAC14131-A6BF-45DF-BD25-F54E6D7CF3DF</key>
+		<string>ssh://github.com/rebornwhu/Ch37VowelCounter.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Ch37VowelCounter.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>97A9BD83-7208-43CE-8980-DF833D388497</key>
+		<key>BAC14131-A6BF-45DF-BD25-F54E6D7CF3DF</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com-rebornwhu/rebornwhu/Ch37VowelCounter.git</string>
+	<string>ssh://github.com/rebornwhu/Ch37VowelCounter.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>97A9BD83-7208-43CE-8980-DF833D388497</string>
+	<string>BAC14131-A6BF-45DF-BD25-F54E6D7CF3DF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>97A9BD83-7208-43CE-8980-DF833D388497</string>
+			<string>BAC14131-A6BF-45DF-BD25-F54E6D7CF3DF</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Ch37VowelCounter</string>
 		</dict>
