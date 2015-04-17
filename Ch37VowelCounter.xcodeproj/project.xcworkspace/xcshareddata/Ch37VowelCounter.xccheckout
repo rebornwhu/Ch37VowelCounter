@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76C0297D-0746-4BB3-9019-0A3F8840FE86</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ch37VowelCounter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>97A9BD83-7208-43CE-8980-DF833D388497</key>
+		<string>ssh://github.com-rebornwhu/rebornwhu/Ch37VowelCounter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ch37VowelCounter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>97A9BD83-7208-43CE-8980-DF833D388497</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com-rebornwhu/rebornwhu/Ch37VowelCounter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>97A9BD83-7208-43CE-8980-DF833D388497</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>97A9BD83-7208-43CE-8980-DF833D388497</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Ch37VowelCounter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
